@@ -69,7 +69,7 @@ pkg up -y; pkg i python -y; git clone https://github.com/toxic-soul/speedtest; c
 
 Use Letest Termux Version 0.118.0 (118) : <a href="https://f-droid.org/repo/com.termux_118.apk">DOWNLOAD TERMUX v118</a>
 
-Facebook : <a href="https://facebook.com/T0XICVIRUS">Follow On Facebook</a>
+Facebook : <a href="https://facebook.com/Toxicsoulx">Follow On Facebook</a>
 
 Telegram : <a href="https://t.me/tx_soul">Join Telegram</a>
 
