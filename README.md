@@ -30,6 +30,17 @@ Simple Internet Speed Testing Tool
 
 # Install
 
+
+````
+pip install myspeed
+````
+
+````
+myspeed
+````
+
+Or,
+
 ````
 pkg up -y
 ````
